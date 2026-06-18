@@ -1,5 +1,5 @@
 HardObfuscator
-<img width="1200" height="360" alt="banner" src="https://github.com/user-attachments/assets/18675414-db61-4023-a2d8-ae18a770f12b" />
+<img width="1280" height="320" alt="banner" src="https://github.com/user-attachments/assets/1ee8e34c-e4a9-417c-acbb-a961342999a7" />
 
  Features
 <img width="1100" height="400" alt="features" src="https://github.com/user-attachments/assets/306b4de5-3f95-44e5-b28e-b3f63bf38253" />
